@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Search-Movies/static/css/main.cf0e6f5e.css",
+    "main.js": "/Search-Movies/static/js/main.7e7cf3fa.js",
+    "static/media/gameTime.png": "/Search-Movies/static/media/gameTime.39246f031b72165b6ace.png",
+    "static/media/Image_not_available.png": "/Search-Movies/static/media/Image_not_available.70ac66a44a9b3620e193.png",
+    "index.html": "/Search-Movies/index.html",
+    "main.cf0e6f5e.css.map": "/Search-Movies/static/css/main.cf0e6f5e.css.map",
+    "main.7e7cf3fa.js.map": "/Search-Movies/static/js/main.7e7cf3fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf0e6f5e.css",
+    "static/js/main.7e7cf3fa.js"
+  ]
+}
